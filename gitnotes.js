@@ -1,0 +1,1 @@
+repositery = like a folder where git keeps everything
